@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react
 # food ordering app
 <!-- /**
@@ -29,3 +30,6 @@
 
     export const component
     import {component} from "path";
+=======
+# Learning React from Basics
+>>>>>>> c82f7f05fea6a8bc8870a3a66953738537ca88b3
